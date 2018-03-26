@@ -1,4 +1,0 @@
-prefix=>
-game=.help để đc chịch hera
-token=NDI0MTg2MzQ4MDI3NzcyOTI4.DZaUgw.j_yLL0GrebY54Eklq67dLWrMUZc
-owner=274006950407307266
